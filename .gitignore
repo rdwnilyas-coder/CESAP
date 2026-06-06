@@ -1,0 +1,26 @@
+# === Bobot model & checkpoint (besar) — regenerate via fine-tune ===
+*.safetensors
+*.bin
+*.pt
+**/model/
+**/_ckpt/
+
+# === Rahasia / kredensial ===
+.env
+.env.*
+.fal_key
+*.key
+*_secret*
+
+# === File sementara ===
+*.tmp
+temp_*
+_temp_*
+
+# === Python ===
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.cache/

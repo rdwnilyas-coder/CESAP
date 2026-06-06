@@ -1,0 +1,33 @@
+{
+  "dataset": "finance",
+  "seed": 42,
+  "n_dups_dropped": 34,
+  "splits": {
+    "train": {
+      "n": 2603,
+      "label_dist": {
+        "positive": 1397,
+        "negative": 623,
+        "neutral": 583
+      }
+    },
+    "valid": {
+      "n": 326,
+      "label_dist": {
+        "positive": 175,
+        "negative": 78,
+        "neutral": 73
+      }
+    },
+    "test": {
+      "n": 325,
+      "label_dist": {
+        "positive": 174,
+        "negative": 78,
+        "neutral": 73
+      }
+    }
+  },
+  "official_split": false,
+  "n_rejected": 0
+}

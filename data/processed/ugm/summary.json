@@ -1,0 +1,33 @@
+{
+  "dataset": "ugm",
+  "seed": 42,
+  "n_dups_dropped": 716,
+  "splits": {
+    "train": {
+      "n": 8072,
+      "label_dist": {
+        "neutral": 4012,
+        "negative": 2116,
+        "positive": 1944
+      }
+    },
+    "valid": {
+      "n": 1009,
+      "label_dist": {
+        "neutral": 502,
+        "negative": 264,
+        "positive": 243
+      }
+    },
+    "test": {
+      "n": 1009,
+      "label_dist": {
+        "neutral": 501,
+        "negative": 265,
+        "positive": 243
+      }
+    }
+  },
+  "official_split": false,
+  "n_rejected": 0
+}

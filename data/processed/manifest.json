@@ -1,0 +1,134 @@
+{
+  "smsa": {
+    "dataset": "smsa",
+    "seed": 42,
+    "n_dups_dropped": 0,
+    "splits": {
+      "train": {
+        "n": 11000,
+        "label_dist": {
+          "positive": 6416,
+          "negative": 3436,
+          "neutral": 1148
+        }
+      },
+      "valid": {
+        "n": 1260,
+        "label_dist": {
+          "positive": 735,
+          "negative": 394,
+          "neutral": 131
+        }
+      },
+      "test": {
+        "n": 500,
+        "label_dist": {
+          "positive": 208,
+          "negative": 204,
+          "neutral": 88
+        }
+      }
+    },
+    "official_split": true,
+    "n_rejected": 0
+  },
+  "nusax": {
+    "dataset": "nusax",
+    "seed": 42,
+    "n_dups_dropped": 0,
+    "splits": {
+      "train": {
+        "n": 500,
+        "label_dist": {
+          "negative": 192,
+          "positive": 189,
+          "neutral": 119
+        }
+      },
+      "valid": {
+        "n": 100,
+        "label_dist": {
+          "negative": 38,
+          "positive": 38,
+          "neutral": 24
+        }
+      },
+      "test": {
+        "n": 400,
+        "label_dist": {
+          "negative": 153,
+          "positive": 151,
+          "neutral": 96
+        }
+      }
+    },
+    "official_split": true,
+    "n_rejected": 0
+  },
+  "ugm": {
+    "dataset": "ugm",
+    "seed": 42,
+    "n_dups_dropped": 716,
+    "splits": {
+      "train": {
+        "n": 8072,
+        "label_dist": {
+          "neutral": 4012,
+          "negative": 2116,
+          "positive": 1944
+        }
+      },
+      "valid": {
+        "n": 1009,
+        "label_dist": {
+          "neutral": 502,
+          "negative": 264,
+          "positive": 243
+        }
+      },
+      "test": {
+        "n": 1009,
+        "label_dist": {
+          "neutral": 501,
+          "negative": 265,
+          "positive": 243
+        }
+      }
+    },
+    "official_split": false,
+    "n_rejected": 0
+  },
+  "finance": {
+    "dataset": "finance",
+    "seed": 42,
+    "n_dups_dropped": 34,
+    "splits": {
+      "train": {
+        "n": 2603,
+        "label_dist": {
+          "positive": 1397,
+          "negative": 623,
+          "neutral": 583
+        }
+      },
+      "valid": {
+        "n": 326,
+        "label_dist": {
+          "positive": 175,
+          "negative": 78,
+          "neutral": 73
+        }
+      },
+      "test": {
+        "n": 325,
+        "label_dist": {
+          "positive": 174,
+          "negative": 78,
+          "neutral": 73
+        }
+      }
+    },
+    "official_split": false,
+    "n_rejected": 0
+  }
+}

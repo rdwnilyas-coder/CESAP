@@ -1,0 +1,33 @@
+{
+  "dataset": "smsa",
+  "seed": 42,
+  "n_dups_dropped": 0,
+  "splits": {
+    "train": {
+      "n": 11000,
+      "label_dist": {
+        "positive": 6416,
+        "negative": 3436,
+        "neutral": 1148
+      }
+    },
+    "valid": {
+      "n": 1260,
+      "label_dist": {
+        "positive": 735,
+        "negative": 394,
+        "neutral": 131
+      }
+    },
+    "test": {
+      "n": 500,
+      "label_dist": {
+        "positive": 208,
+        "negative": 204,
+        "neutral": 88
+      }
+    }
+  },
+  "official_split": true,
+  "n_rejected": 0
+}
