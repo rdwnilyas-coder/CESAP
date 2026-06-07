@@ -1,5 +1,7 @@
 # CESAP — Code & Datasets
 
+![CESAP — Balancing Accuracy and Cost in Indonesian Sentiment Analysis](assets/readme_infographic.png)
+
 *Cost-Efficient Strategies for Production Indonesian Sentiment Analysis.*
 🇮🇩 [Versi Bahasa Indonesia](README.id.md)
 

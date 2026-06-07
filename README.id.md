@@ -1,5 +1,7 @@
 # CESAP — Kode & Dataset
 
+![CESAP — Strategi Efisiensi Biaya Analisis Sentimen Bahasa Indonesia](assets/readme_infographic_id.png)
+
 *Strategi Hemat Biaya untuk Analisis Sentimen Bahasa Indonesia Produksi.*
 🇬🇧 [English version](README.md)
 
