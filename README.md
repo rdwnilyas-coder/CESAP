@@ -2,6 +2,8 @@
 
 ![CESAP — Balancing Accuracy and Cost in Indonesian Sentiment Analysis](assets/readme_infographic.png)
 
+**▶ 30-second promo video:** [`assets/cesap-promo.mp4`](assets/cesap-promo.mp4)
+
 *Cost-Efficient Strategies for Production Indonesian Sentiment Analysis.*
 🇮🇩 [Versi Bahasa Indonesia](README.id.md)
 
